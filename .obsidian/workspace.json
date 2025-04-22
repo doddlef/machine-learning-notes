@@ -13,29 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "W7 L1 Logistic Regression.md",
-                "mode": "preview",
+                "file": "W4 L2 decision trees.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W7 L1 Logistic Regression"
+              "title": "W4 L2 decision trees"
             }
           },
           {
-            "id": "9f0a1d5497517026",
+            "id": "3a4fb9802fc88236",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "W3 L2-data.md",
+                "file": "W7 L2 Classifier Combination.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W3 L2-data"
+              "title": "W7 L2 Classifier Combination"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "W5 L2.md",
+                "file": "W7 L2 Classifier Combination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for W5 L2"
+              "title": "Backlinks for W7 L2 Classifier Combination"
             }
           },
           {
@@ -184,24 +185,25 @@
   },
   "active": "8793c0fa7e022dcb",
   "lastOpenFiles": [
-    "asset/logist-regression-discuss.png",
-    "asset/multi-class-derive.png",
-    "asset/multi-class-classifiction.png",
-    "asset/decision_boundar_estimate_2.png",
-    "asset/decision_boundary_exstiamte.png",
-    "asset/ascent_descent.png",
+    "asset/stack_3.png",
+    "asset/stack_2.png",
+    "asset/stack_1.png",
+    "W4 L2 decision trees.md",
+    "W7 L2 Classifier Combination.md",
+    "asset/ada_4.png",
+    "asset/ada_3.png",
+    "asset/ada_2.png",
+    "asset/ada_1.png",
+    "asset/boosting_2.png",
+    "asset/boosting_1.png",
+    "asset/random-forest.png",
+    "asset/decision-tree.png",
     "W3 L2-data.md",
+    "W2-L2-probability.md",
     "W7 L1 Logistic Regression.md",
-    "asset/predict_classification.png",
-    "asset/logit.png",
-    "asset/exp.png",
-    "asset/probability-classification.png",
-    "asset/navis-bayes_1.png",
     "W6 L2 Linear regression.md",
     "W6 L1 interpreting models.md",
     "W5 L2 SVM.md",
-    "W4 L2 decision trees.md",
-    "W2-L2-probability.md",
     "W5 L1 instance-based learning.md",
     "W3 L1.md",
     "Nearest prototype classifiers.md",
